@@ -33,4 +33,4 @@ I'm an open-source enthusiast too. I'm learning a lot from the open-source commu
     </a>    
 </div>
   
-![Snake animation](https://github.com/Filipe-Oliv/Filipe-Oliv/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGf/LuigiGf/blob/output/github-contribution-grid-snake.svg)
