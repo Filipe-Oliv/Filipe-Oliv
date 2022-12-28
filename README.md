@@ -8,9 +8,11 @@ I'm an open-source enthusiast too. I'm learning a lot from the open-source commu
 </div>
 
 <div>
+  
   <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=Filipe-Oliv&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Oliv&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+<br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
