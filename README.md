@@ -6,12 +6,10 @@ Hi! I'm Filipe S de Olivera, a passionate web developer and a freelance from Bra
 I'm an open-source enthusiast too. I'm learning a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 </p>
 
-<div>
-  
+<div>  
   <img  height="145em" src="https://github-readme-stats.vercel.app/api?username=Filipe-Oliv&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Oliv&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-<br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -23,7 +21,6 @@ I'm an open-source enthusiast too. I'm learning a lot from the open-source commu
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
-      
   
   <h1 align="center">Contact me</h1>
     <a href = "mailto: filipe.devel@gmail.com">
