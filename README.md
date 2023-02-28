@@ -24,6 +24,8 @@ I'm an open-source enthusiast too. I'm learning a lot from the open-source commu
     <img align="center" height="30" width="40" alt="typescript-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="tailwindcss-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+    <img align="center" height="30" width="40" alt="bootstrap-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+
 </div>
   
 <div>
